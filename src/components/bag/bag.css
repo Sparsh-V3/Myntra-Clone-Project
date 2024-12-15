@@ -1,0 +1,57 @@
+#baglist {
+  margin: 8% 5%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+  object-fit: contain;
+}
+
+.list .card {
+  border: 2px solid black;
+  border-radius: 5%;
+  height: 75%;
+  display: flex;
+  padding: 0.5rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list .card .image {
+  width: 100%;
+  height: 55%;
+  /* border: 2px solid red; */
+  object-fit: contain;
+}
+
+.list .card .image img {
+  width: 100%;
+  height: 100%;
+}
+
+.list .card .brief {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list .card .brief button {
+  border: 3px solid rgb(211, 71, 95);
+  background: transparent;
+  color: rgb(211, 71, 95);
+  font-size: 1rem;
+  padding: 0.3rem 0.7rem;
+  transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out,
+    transform 0.4s ease-in-out;
+}
+
+.list .card .brief button:hover {
+  background-color: rgb(102, 56, 182);
+  color: white;
+  transform: scale(1.2);
+  cursor: pointer;
+}

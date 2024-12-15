@@ -1,0 +1,32 @@
+.banner {
+    width: 87%;
+    margin: auto;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.specialOffers {
+    /* border: 2px solid red; */
+    display: flex;
+    width: 87%;
+    justify-content: center;
+    margin: auto;
+    > div {
+        /* border: 2px solid black; */
+        width: 100%;
+        > img {
+            width: 100%;
+        }
+    }
+}
+
+.myntraPrize {
+    width: 87%;
+    margin: auto;
+}
+
+.myntraPrize img {
+    width: 100%;
+}

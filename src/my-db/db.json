@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Ethnic Wear",
+        "discount": "50-80% OFF",
+        "buy": "SHOP NOW"
+    },
+    {
+        "title": "Casual Wear",
+        "discount": "40-80% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Men's ActiveWear",
+        "discount": "30-70% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Women's ActiveWear",
+        "discount": "30-70% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Western Wear",
+        "discount": "40-80% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Loungewear",
+        "discount": "30-60% OFF",
+        "buy": "SHOP NOW"
+    },
+    {
+        "title": "Innerwear",
+        "discount": "70% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Lingerie",
+        "discount": "70% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Watches",
+        "discount": "80% OFF",
+        "buy": "Shop Now"
+    },
+    {
+        "title": "Sportswear",
+        "discount": "30-80% OFF",
+        "buy": "Shop Now"
+    }
+]

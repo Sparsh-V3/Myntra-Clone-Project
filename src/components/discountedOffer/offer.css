@@ -1,0 +1,29 @@
+#discountedOffer {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  margin: 6% 19% 0.5% 19%;
+  height: fit-content;
+  gap: 1.5rem;
+}
+
+#discountedOffer .img1 {
+  /* border: 2px solid black; */
+  width: 40%;
+  height: 17vh;
+  overflow: clip;
+  > img {
+    width: 100%;
+  }
+}
+
+#discountedOffer .img2 {
+  /* border: 2px solid black; */
+  height: fit-content;
+  width: 50%;
+  height: 17vh;
+  overflow: clip;
+  > img {
+    width: 100%;
+  }
+}
