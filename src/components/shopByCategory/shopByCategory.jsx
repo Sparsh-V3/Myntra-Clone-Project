@@ -13,7 +13,7 @@ function ShopBy() {
 
       const updatedData = data.map((product) => ({
         ...product,
-        image: `src/${product.image}`,
+        image: `${product.image}`,
       }));
 
       setProducts(updatedData);

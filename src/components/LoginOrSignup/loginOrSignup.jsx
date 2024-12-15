@@ -13,7 +13,7 @@ function LoginOrSignup() {
       <div className="my-form">
         <form action="" id="login-signup">
           <div className="image">
-            <img src="src/assets/login-signup.webp" alt="" />
+            <img src="assets/login-signup.webp" alt="" />
           </div>
           <div className="log-sign-sec">
             <input

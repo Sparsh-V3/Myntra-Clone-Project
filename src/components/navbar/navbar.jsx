@@ -33,7 +33,7 @@ function Navbar() {
     <>
       <nav id="navbar">
         <div id="logo" onClick={handleHome}>
-          <img src="src/assets/myntra.png" alt="" />
+          <img src="assets/myntra.png" alt="" />
         </div>
         <div className={`navContents ${menuOpen ? "active" : ""}`}>
           <h3>MEN</h3>

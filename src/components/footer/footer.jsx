@@ -88,24 +88,28 @@ function Footer() {
           <h6>EXPERIENCE MYNTRA APP ON MOBILE</h6>
           <div className="get-it-on">
             <div>
-              <img src="src/assets/Footer/google-play.png" alt="" />
+              <a href="https://play.google.com/store/apps/details?id=com.myntra.android&pli=1">
+                <img src="assets/Footer/google-play.png" alt="" />
+              </a>
             </div>
             <div>
-              <img src="src/assets/Footer/apple-store.png" alt="" />
+              <a href="https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059">
+                <img src="assets/Footer/apple-store.png" alt="" />
+              </a>
             </div>
           </div>
           <h6>KEEP IN TOUCH</h6>
           <div className="icons">
-            <img src="src/assets/Footer/facebook.png" alt="" />
-            <img src="src/assets/Footer/twitter.png" alt="" />
-            <img src="src/assets/Footer/yt.png" alt="" />
-            <img src="src/assets/Footer/inst.png" alt="" />
+            <img src="assets/Footer/facebook.png" alt="" />
+            <img src="assets/Footer/twitter.png" alt="" />
+            <img src="assets/Footer/yt.png" alt="" />
+            <img src="assets/Footer/inst.png" alt="" />
           </div>
         </div>
         <div className="least">
           <div className="original">
             <div>
-              <img src="src/assets/Footer/original.png" alt="" />
+              <img src="assets/Footer/original.png" alt="" />
             </div>
             <p>
               <strong>100% ORIGINAL</strong> guarantee for all products at
@@ -114,7 +118,7 @@ function Footer() {
           </div>
           <div className="returnal">
             <div>
-              <img src="src/assets/Footer/fourteen.png" alt="" />
+              <img src="assets/Footer/fourteen.png" alt="" />
             </div>
             <p>
               <strong>Return within 14days</strong> of receiving your order
